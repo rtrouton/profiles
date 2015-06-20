@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.apple.screencapture</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>disable-shadow</key>
+								<true/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.8fcc43f4-2c7e-45f6-9098-3bf3507e3c52.alacarte.customsettings.d7075ad4-8d0b-4b8a-8038-20c130f92635</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>d7075ad4-8d0b-4b8a-8038-20c130f92635</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.apple.screencapture
+
+Git revision: 5aefeaf7eb</string>
+	<key>PayloadDisplayName</key>
+	<string>MCXToProfile: com.apple.screencapture</string>
+	<key>PayloadIdentifier</key>
+	<string>DisableScreenshotDropShadow</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>8fcc43f4-2c7e-45f6-9098-3bf3507e3c52</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
