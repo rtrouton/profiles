@@ -1,0 +1,1 @@
+This OS X management profile disables the **Restart** button and prevents it from appearing at the Loginwindow.
