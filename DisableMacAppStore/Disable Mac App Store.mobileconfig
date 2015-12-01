@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadIdentifier</key>
+	<string>com.github.profile.appstore</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>a3f3dc40-1fde-0131-31d5-000c2944c108</string>
+	<key>PayloadOrganization</key>
+	<string>Company Name</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>PayloadDisplayName</key>
+	<string>Disable Mac App Store</string>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.appstore</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>com.github.profile.appstore</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadUUID</key>
+			<string>38057e66-080d-400b-0501-cdbce9cee0d0</string>
+			<key>PayloadDisplayName</key>
+			<string>App Store</string>
+			<key>restrict-store-softwareupdate-only</key>
+			<true/>
+			<key>restrict-store-disable-app-adoption</key>
+			<true/>
+			<key>restrict-store-require-admin-to-install</key>
+			<true/>
+		</dict>
+	</array>
+</dict>
+</plist>

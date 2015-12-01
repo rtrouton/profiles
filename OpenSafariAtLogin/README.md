@@ -1,0 +1,1 @@
+This OS X management profile sets Safari to open at login for all accounts on a particular Mac.

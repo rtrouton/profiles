@@ -1,0 +1,1 @@
+This OS X management profile sets the Mac App Store to only allow access to OS X software updates for all accounts on a particular Mac.

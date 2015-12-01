@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1">
+	<dict>
+		<key>PayloadUUID</key>
+		<string>E4BFD6D4-5848-45ED-8155-F41A257DD262</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadOrganization</key>
+		<string>Company Name</string>
+		<key>PayloadIdentifier</key>
+		<string>E4BFD6D4-5848-45ED-8155-F41A257DD262</string>
+		<key>PayloadDisplayName</key>
+		<string>Open Safari at Login</string>
+		<key>PayloadDescription</key>
+		<string>Opens Safari at login</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadEnabled</key>
+		<true/>
+		<key>PayloadRemovalDisallowed</key>
+		<true/>
+		<key>PayloadScope</key>
+		<string>System</string>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>PayloadUUID</key>
+				<string>A45F0BA9-229C-4377-95BE-A00558AB8BBE</string>
+				<key>PayloadType</key>
+				<string>com.apple.loginitems.managed</string>
+				<key>PayloadOrganization</key>
+				<string>Company Name</string>
+				<key>PayloadIdentifier</key>
+				<string>A45F0BA9-229C-4377-95BE-A00558AB8BBE</string>
+				<key>PayloadDisplayName</key>
+				<string>Login Items:  Managed Items</string>
+				<key>PayloadDescription</key>
+				<string/>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>PayloadEnabled</key>
+				<true/>
+				<key>AutoLaunchedApplicationDictionary-managed</key>
+				<array>
+					<dict>
+						<key>Hide</key>
+						<false/>
+						<key>Path</key>
+						<string>/Applications/Safari.app</string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>PayloadUUID</key>
+				<string>D3B2A2A3-F56A-46A2-8C8D-1256EF0A8EF6</string>
+				<key>PayloadType</key>
+				<string>com.apple.loginwindow</string>
+				<key>PayloadOrganization</key>
+				<string>Company Name</string>
+				<key>PayloadIdentifier</key>
+				<string>D3B2A2A3-F56A-46A2-8C8D-1256EF0A8EF6</string>
+				<key>PayloadDisplayName</key>
+				<string>Login Window</string>
+				<key>PayloadDescription</key>
+				<string/>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>PayloadEnabled</key>
+				<true/>
+				<key>DisableLoginItemsSuppression</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+</plist>
