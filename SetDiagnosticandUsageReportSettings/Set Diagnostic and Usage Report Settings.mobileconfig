@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadIdentifier</key>
+		<string>com.github.81927370-ef798a72-978d-4ffc-81a3-88ba36f52585.alacarte</string>
+		<key>PayloadRemovalDisallowed</key>
+		<false/>
+		<key>PayloadScope</key>
+		<string>System</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>81927370-ef798a72-978d-4ffc-81a3-88ba36f52585</string>
+		<key>PayloadOrganization</key>
+		<string>Company Name</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadDisplayName</key>
+		<string>Set Diagnostic &amp; Usage Settings</string>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>PayloadType</key>
+				<string>com.apple.SubmitDiagInfo</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>PayloadIdentifier</key>
+				<string>com.github.81927370-ef798a72-978d-4ffc-81a3-88ba36f52585.alacarte.privacy.818a6080-a792-0133-7ea5-000c29fd99e8.SubmitDiagInfo</string>
+				<key>PayloadEnabled</key>
+				<true/>
+				<key>PayloadUUID</key>
+				<string>77078ddd-20c5-49a2-af37-c3abb172da23</string>
+				<key>PayloadDisplayName</key>
+				<string>Security &amp; Privacy</string>
+				<key>AutoSubmit</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>PayloadType</key>
+				<string>com.apple.applicationaccess</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>PayloadIdentifier</key>
+				<string>com.github.81927370-ef798a72-978d-4ffc-81a3-88ba36f52585.alacarte.privacy.818a6080-a792-0133-7ea5-000c29fd99e8.applicationaccess</string>
+				<key>PayloadEnabled</key>
+				<true/>
+				<key>PayloadUUID</key>
+				<string>1b771d59-d85b-b0e3-12a0-91709ff14b81</string>
+				<key>PayloadDisplayName</key>
+				<string>Security &amp; Privacy</string>
+				<key>allowDiagnosticSubmission</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+</plist>
