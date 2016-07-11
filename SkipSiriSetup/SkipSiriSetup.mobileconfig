@@ -39,7 +39,7 @@ com.apple.SetupAssistant
 
 Git revision: 5aefeaf7eb</string>
 	<key>PayloadDisplayName</key>
-	<string>MCXToProfile: com.apple.SetupAssistant</string>
+	<string>Skip Siri Setup</string>
 	<key>PayloadIdentifier</key>
 	<string>org.github</string>
 	<key>PayloadOrganization</key>
