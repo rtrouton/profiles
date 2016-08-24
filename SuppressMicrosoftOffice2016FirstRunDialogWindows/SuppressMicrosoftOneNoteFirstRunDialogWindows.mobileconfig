@@ -7,14 +7,18 @@
 		<dict>
 			<key>PayloadContent</key>
 			<dict>
-				<key>com.apple.mDNSResponder</key>
+				<key>com.microsoft.onenote.mac</key>
 				<dict>
 					<key>Forced</key>
 					<array>
 						<dict>
 							<key>mcx_preference_settings</key>
 							<dict>
-								<key>NoMulticastAdvertisements</key>
+								<key>FirstRunExperienceCompletedO15</key>
+								<true/>
+								<key>SendAllTelemetryEnabled</key>
+								<false/>
+								<key>kSubUIAppCompletedFirstRunSetup1507</key>
 								<true/>
 							</dict>
 						</dict>
@@ -24,21 +28,21 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>MCXToProfile.de94d390-a5ad-423a-a3f7-5a16580765ee.alacarte.customsettings.54f5e568-8a18-49a8-a54b-e37309748052</string>
+			<string>MCXToProfile.d731b9a1-88da-427c-abc6-f7db6507c037.alacarte.customsettings.d070527a-83c6-4dd3-91f2-20ec4cbdfc73</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
-			<string>54f5e568-8a18-49a8-a54b-e37309748052</string>
+			<string>d070527a-83c6-4dd3-91f2-20ec4cbdfc73</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Disable Bonjour advertisement</string>
+	<string>Suppress Microsoft OneNote First Run Dialog Windows</string>
 	<key>PayloadDisplayName</key>
-	<string>MCXToProfile: com.apple.mDNSResponder</string>
+	<string>Suppress Microsoft OneNote First Run Dialog Windows</string>
 	<key>PayloadIdentifier</key>
-	<string>com.apple.mDNSResponder</string>
+	<string>com.company.profile.MicrosoftOneNoteFirstRunWindows</string>
 	<key>PayloadOrganization</key>
 	<string></string>
 	<key>PayloadRemovalDisallowed</key>
@@ -48,7 +52,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>de94d390-a5ad-423a-a3f7-5a16580765ee</string>
+	<string>d731b9a1-88da-427c-abc6-f7db6507c037</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>

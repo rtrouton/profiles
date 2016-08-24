@@ -7,14 +7,16 @@
 		<dict>
 			<key>PayloadContent</key>
 			<dict>
-				<key>com.apple.mDNSResponder</key>
+				<key>com.microsoft.Excel</key>
 				<dict>
 					<key>Forced</key>
 					<array>
 						<dict>
 							<key>mcx_preference_settings</key>
 							<dict>
-								<key>NoMulticastAdvertisements</key>
+								<key>SendAllTelemetryEnabled</key>
+								<false/>
+								<key>kSubUIAppCompletedFirstRunSetup1507</key>
 								<true/>
 							</dict>
 						</dict>
@@ -24,21 +26,21 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>MCXToProfile.de94d390-a5ad-423a-a3f7-5a16580765ee.alacarte.customsettings.54f5e568-8a18-49a8-a54b-e37309748052</string>
+			<string>MCXToProfile.88b40688-a500-48b6-a077-4a8792163e5a.alacarte.customsettings.dc058c9d-fbc0-42ad-b00e-3bde20c7f0f0</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
-			<string>54f5e568-8a18-49a8-a54b-e37309748052</string>
+			<string>dc058c9d-fbc0-42ad-b00e-3bde20c7f0f0</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Disable Bonjour advertisement</string>
+	<string>Suppress Microsoft Excel First Run Dialog Windows</string>
 	<key>PayloadDisplayName</key>
-	<string>MCXToProfile: com.apple.mDNSResponder</string>
+	<string>Suppress Microsoft Excel First Run Dialog Windows</string>
 	<key>PayloadIdentifier</key>
-	<string>com.apple.mDNSResponder</string>
+	<string>com.company.profile.MicrosoftExcelFirstRunWindows</string>
 	<key>PayloadOrganization</key>
 	<string></string>
 	<key>PayloadRemovalDisallowed</key>
@@ -48,7 +50,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>de94d390-a5ad-423a-a3f7-5a16580765ee</string>
+	<string>88b40688-a500-48b6-a077-4a8792163e5a</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>

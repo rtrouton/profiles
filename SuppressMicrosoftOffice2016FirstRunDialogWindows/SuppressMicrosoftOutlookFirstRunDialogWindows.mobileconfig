@@ -7,14 +7,18 @@
 		<dict>
 			<key>PayloadContent</key>
 			<dict>
-				<key>com.apple.mDNSResponder</key>
+				<key>com.microsoft.Outlook</key>
 				<dict>
 					<key>Forced</key>
 					<array>
 						<dict>
 							<key>mcx_preference_settings</key>
 							<dict>
-								<key>NoMulticastAdvertisements</key>
+								<key>FirstRunExperienceCompletedO15</key>
+								<true/>
+								<key>SendAllTelemetryEnabled</key>
+								<false/>
+								<key>kSubUIAppCompletedFirstRunSetup1507</key>
 								<true/>
 							</dict>
 						</dict>
@@ -24,21 +28,21 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>MCXToProfile.de94d390-a5ad-423a-a3f7-5a16580765ee.alacarte.customsettings.54f5e568-8a18-49a8-a54b-e37309748052</string>
+			<string>MCXToProfile.c89ccd5a-028e-4a8f-8684-843505070518.alacarte.customsettings.1a91cbed-42be-453d-89b3-85c921561ac8</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
-			<string>54f5e568-8a18-49a8-a54b-e37309748052</string>
+			<string>1a91cbed-42be-453d-89b3-85c921561ac8</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Disable Bonjour advertisement</string>
+	<string>Suppress Microsoft Outlook First Run Dialog Windows</string>
 	<key>PayloadDisplayName</key>
-	<string>MCXToProfile: com.apple.mDNSResponder</string>
+	<string>Suppress Microsoft Outlook First Run Dialog Windows</string>
 	<key>PayloadIdentifier</key>
-	<string>com.apple.mDNSResponder</string>
+	<string>com.company.profile.MicrosoftOutlookFirstRunWindows</string>
 	<key>PayloadOrganization</key>
 	<string></string>
 	<key>PayloadRemovalDisallowed</key>
@@ -48,7 +52,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>de94d390-a5ad-423a-a3f7-5a16580765ee</string>
+	<string>c89ccd5a-028e-4a8f-8684-843505070518</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
