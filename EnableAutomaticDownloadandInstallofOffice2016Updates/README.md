@@ -4,7 +4,7 @@ This management profile enables the **Automatically Download and Install** optio
 
 * If an Office application is running - MAU will prompt the customer and give them the option of updating later or restarting the application. If the customer chooses to restart their application, the application will be closed, updated and then re-opened.
 
-For more information on the the Automatic Download and Install option in Microsoft AutoUpdate 3.8 and later, please see the link below:
+For more information on the the **Automatically Download and Install** option in Microsoft AutoUpdate 3.8 and later, please see the link below:
 
 [http://macadmins.software/docs/MAU_38.pdf](http://macadmins.software/docs/MAU_38.pdf)
 
