@@ -1,4 +1,4 @@
-This management profile enables the **Automatic Download and Install** option in Microsoft AutoUpdate (MAU) 3.8 and later. This option enables MAU 3.8 and later to automatically download updates for Office 2016 applications and perform the following actions:
+This management profile enables the **Automatically Download and Install** option in Microsoft AutoUpdate (MAU) 3.8 and later. This option enables MAU 3.8 and later to automatically download updates for Office 2016 applications and perform the following actions:
 
 * If an Office 2016 application is not running - MAU will automatically install the update for the application
 
