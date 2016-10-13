@@ -1,2 +1,2 @@
 # Profiles
-Management profiles for OS X
+Management profiles for OS X / macOS
