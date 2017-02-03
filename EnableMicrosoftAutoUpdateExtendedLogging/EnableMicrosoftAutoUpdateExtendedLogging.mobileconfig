@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.microsoft.autoupdate2</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>ExtendedLogging</key>
+								<true/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.1fb802da-b550-4e19-9d87-4edd185ab553.alacarte.customsettings.95e9ba61-aeb8-4315-988e-db391d90228e</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>95e9ba61-aeb8-4315-988e-db391d90228e</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enable extended logging for Microsoft AutoUpdate</string>
+	<key>PayloadDisplayName</key>
+	<string>Enable Microsoft AutoUpdate Extended Logging</string>
+	<key>PayloadIdentifier</key>
+	<string>com.company.1fb802da-b550-4e19-9d87-4edd185ab553.enable_microsoft_autoupdate_extended_logging</string>
+	<key>PayloadOrganization</key>
+	<string>Company Name</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>1fb802da-b550-4e19-9d87-4edd185ab553</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
