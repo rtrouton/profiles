@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadIdentifier</key>
+		<string>com.github.d53c8667-5493-4e37-abf4-ddf8ebe3e06f.alacarte</string>
+		<key>PayloadRemovalDisallowed</key>
+		<false/>
+		<key>PayloadScope</key>
+		<string>System</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>d53c8667-5493-4e37-abf4-ddf8ebe3e06f</string>
+		<key>PayloadOrganization</key>
+		<string>Company Name</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadDisplayName</key>
+		<string>Skip Touch ID Setup</string>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>PayloadType</key>
+				<string>com.apple.SetupAssistant.managed</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>PayloadIdentifier</key>
+				<string>com.github.d53c8667-5493-4e37-abf4-ddf8ebe3e06f.alacarte.loginwindow.ac77a0a0-a793-0133-7ea7-000c29fd99e8.managed</string>
+				<key>PayloadEnabled</key>
+				<true/>
+				<key>PayloadUUID</key>
+				<string>def63523-fce9-4acd-ac15-10584c9de11e</string>
+				<key>PayloadDisplayName</key>
+				<string>Login Window</string>
+				<key>SkipTouchIDSetup</key>
+				<true/>
+			</dict>
+		</array>
+	</dict>
+</plist>
