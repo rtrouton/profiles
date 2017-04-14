@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.microsoft.office</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>DefaultsToLocalOpenSave</key>
+								<true/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.3a62611f-cba2-480c-8f09-6aaba6eb8109.alacarte.customsettings.2fbc2ae4-83c4-4d0a-8f7c-d2ac5ab51e5d</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>2fbc2ae4-83c4-4d0a-8f7c-d2ac5ab51e5d</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Sets the Open and Save options in Office 2016 apps to default to On My Mac instead of Online Locations</string>
+	<key>PayloadDisplayName</key>
+	<string>Set Office 2016 Default Open and Save Options to On My Mac </string>
+	<key>PayloadIdentifier</key>
+	<string>com.company.3a62611f-cba2-480c-8f09-6aaba6eb8109.default_to_local_open_save</string>
+	<key>PayloadOrganization</key>
+	<string>Company Name</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>3a62611f-cba2-480c-8f09-6aaba6eb8109</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

@@ -1,0 +1,1 @@
+This management profile for Outlook 2016 sets the **On My Computer** folders to be automatically hidden.
