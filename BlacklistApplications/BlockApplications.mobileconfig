@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadIdentifier</key>
+	<string>com.company.mcx.blockapps</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>9c24d6b3-6233-4a08-a48d-9068f4f76cf0</string>
+	<key>PayloadOrganization</key>
+	<string>Company Name</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>PayloadDisplayName</key>
+	<string>Application Restrictions</string>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess.new</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.9c24d6b3-6233-4a08-a48d-9068f4f76cf0.alacarte.customsettings.2476221c-1870-4f3e-8c52-52386029c4cf</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadUUID</key>
+			<string>2476221c-1870-4f3e-8c52-52386029c4cf</string>
+			<key>PayloadDisplayName</key>
+			<string>Block Specified Applications From Launching</string>
+			<key>familyControlsEnabled</key>
+			<true/>
+			<key>pathBlackList</key>
+			<array>
+				<string>/Applications/Chess.app/</string>
+				<string>/Applications/FaceTime.app/</string>
+				<string>/Applications/Mail.app/</string>
+				<string>/Applications/Messages.app/</string>
+			</array>
+			<key>pathWhiteList</key>
+			<array>
+				<string>/</string>
+			</array>
+			<key>whiteList</key>
+			<array>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
+
+
+
