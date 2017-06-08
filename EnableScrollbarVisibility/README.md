@@ -1,0 +1,1 @@
+This macOS management profile [sets scrollbars to always be visible.](http://osxdaily.com/2011/08/03/show-scroll-bars-mac-os-x-lion/) 

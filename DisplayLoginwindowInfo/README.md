@@ -1,0 +1,1 @@
+This macOS management profile [enables host information to be viewed at the login window.](https://support.apple.com/HT202266) 
