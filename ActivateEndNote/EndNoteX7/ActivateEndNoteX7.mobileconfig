@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.ThomsonResearchSoft.EndNote</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>AcceptedENX7.2EULA</key>
+								<string>1</string>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.4e26db1b-f59b-4998-9a9c-d39cc46b8dad.alacarte.customsettings.5b02a1cc-9a5e-4858-95d2-2f7a25af1431</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>5b02a1cc-9a5e-4858-95d2-2f7a25af1431</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Activate EndNote X7 by acknowledging the End User License Agreement</string>
+	<key>PayloadDisplayName</key>
+	<string>Activate EndNote X7</string>
+	<key>PayloadIdentifier</key>
+	<string>com.company.4e26db1b-f59b-4998-9a9c-d39cc46b8dad.activate_endnote_x7</string>
+	<key>PayloadOrganization</key>
+	<string>Company Name</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>4e26db1b-f59b-4998-9a9c-d39cc46b8dad</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

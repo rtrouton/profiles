@@ -1,0 +1,1 @@
+This management profile activates Clarivate Analytics's EndNote X8 bibliography software.

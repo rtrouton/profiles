@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1">
+	<dict>
+		<key>PayloadUUID</key>
+		<string>F861038B-AF72-429B-AED4-7238634E53BE</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadOrganization</key>
+		<string>Company Name</string>
+		<key>PayloadIdentifier</key>
+		<string>F861038B-AF72-429B-AED4-7238634E53BE</string>
+		<key>PayloadDisplayName</key>
+		<string>Disable Touch ID Preference Pane</string>
+		<key>PayloadDescription</key>
+		<string>Disables the Touch ID preference pane</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadEnabled</key>
+		<true/>
+		<key>PayloadRemovalDisallowed</key>
+		<false/>
+		<key>PayloadScope</key>
+		<string>System</string>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>PayloadUUID</key>
+				<string>DB3081AD-4DA6-4186-8753-3954A448A384</string>
+				<key>PayloadType</key>
+				<string>com.apple.systempreferences</string>
+				<key>PayloadOrganization</key>
+				<string>Company Name</string>
+				<key>PayloadIdentifier</key>
+				<string>DB3081AD-4DA6-4186-8753-3954A448A384</string>
+				<key>PayloadDisplayName</key>
+				<string>System Preferences</string>
+				<key>PayloadDescription</key>
+				<string/>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>PayloadEnabled</key>
+				<true/>
+				<key>DisabledPreferencePanes</key>
+				<array>
+					<string>com.apple.preferences.password</string>
+				</array>
+			</dict>
+		</array>
+	</dict>
+</plist>
