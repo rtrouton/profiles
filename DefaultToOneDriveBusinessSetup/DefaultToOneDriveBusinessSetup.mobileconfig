@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.microsoft.OneDrive</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>DefaultToBusinessFRE</key>
+								<true/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.ManagedClient.preferences.DBF1709B-CF2C-48E1-B487-28E7B0F3D6DF</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>DBF1709B-CF2C-48E1-B487-28E7B0F3D6DF</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enables the OneDrive setup assistant to set up OneDrive Business.</string>
+	<key>PayloadDisplayName</key>
+	<string>OneDrive For Business</string>
+	<key>PayloadIdentifier</key>
+	<string>com.company.office.onedrivesetup</string>
+	<key>PayloadOrganization</key>
+	<string>Company Name</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>E3ADB353-67D7-4489-B92D-8111AF4C0337</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
