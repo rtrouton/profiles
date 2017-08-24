@@ -11,7 +11,7 @@
 	<key>PayloadOrganization</key>
 	<string>Company Name</string>
 	<key>PayloadRemovalDisallowed</key>
-	<true/>
+	<false/>
 	<key>PayloadScope</key>
 	<string>System</string>
 	<key>PayloadType</key>
@@ -22,7 +22,39 @@
 	<integer>1</integer>
 	<key>PayloadContent</key>
 	<array>
-
+		
+		<!-- Microsoft Error Reporting Configuration -->
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Microsoft Error Reporting</string>
+			<key>PayloadIdentifier</key>
+			<string>corp.sap.managedclient.preferences.errorreporting</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>C6D47E55-3CD0-482D-8EA4-A8A193B1140D</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.microsoft.errorreporting</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>IsAttachedEnabled</key>
+								<false/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+		</dict>
+		
 		<!-- Word Configuration -->
 		<dict>
 			<key>PayloadDisplayName</key>
