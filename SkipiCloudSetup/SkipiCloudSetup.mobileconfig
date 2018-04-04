@@ -16,6 +16,8 @@
 		<string>Company Name</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
+		<key>PayloadDescription</key>
+		<string>Skips the iCloud Setup pop-up window</string>
 		<key>PayloadDisplayName</key>
 		<string>Skip iCloud Setup</string>
 		<key>PayloadContent</key>

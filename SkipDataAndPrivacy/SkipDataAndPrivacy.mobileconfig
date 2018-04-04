@@ -3,7 +3,7 @@
 <plist version="1.0">
 	<dict>
 		<key>PayloadIdentifier</key>
-		<string>com.github.730571bc-0591-41d4-bc15-43e12b4c74cd.alacarte</string>
+		<string>com.github.93de3086-a916-4c08-8139-aa6b43986067.alacarte</string>
 		<key>PayloadRemovalDisallowed</key>
 		<false/>
 		<key>PayloadScope</key>
@@ -11,15 +11,15 @@
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>730571bc-0591-41d4-bc15-43e12b4c74cd</string>
+		<string>93de3086-a916-4c08-8139-aa6b43986067</string>
 		<key>PayloadOrganization</key>
 		<string>Company Name</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 		<key>PayloadDescription</key>
-		<string>Skips the Siri Setup pop-up window</string>
+		<string>Skips the Apple Privacy pop-up window</string>
 		<key>PayloadDisplayName</key>
-		<string>Skip Siri Setup</string>
+		<string>Skip Apple Privacy Message</string>
 		<key>PayloadContent</key>
 		<array>
 			<dict>
@@ -28,14 +28,14 @@
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 				<key>PayloadIdentifier</key>
-				<string>com.github.730571bc-0591-41d4-bc15-43e12b4c74cd.alacarte.loginwindow.dbec18a0-125c-4f53-8939-bfb0bf843914.managed</string>
+				<string>com.github.93de3086-a916-4c08-8139-aa6b43986067.alacarte.loginwindow.c5b06ada-b78b-4fe2-9ab2-95776aae67b6.managed</string>
 				<key>PayloadEnabled</key>
 				<true/>
 				<key>PayloadUUID</key>
-				<string>ccb73d64-5243-46d6-9d6e-7e1a9f335f12</string>
+				<string>27416007-ad35-4ac7-b93f-81cf1452d384</string>
 				<key>PayloadDisplayName</key>
 				<string>Login Window</string>
-				<key>SkipSiriSetup</key>
+				<key>SkipPrivacySetup</key>
 				<true/>
 			</dict>
 		</array>
