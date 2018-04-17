@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Desktop Wallpaper Settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Desktop Wallpaper Settings</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.desktop</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.desktop</string>
+			<key>PayloadUUID</key>
+			<string>88A79572-53E3-4949-825C-4E3E548D5415</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>locked</key>
+			<false/>
+			<key>override-picture-path</key>
+			<string>/Library/Desktop Pictures/Bahamas Aerial.jpg</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Configures the desktop background to use the image file specified in the Picture Path setting.</string>
+	<key>PayloadDisplayName</key>
+	<string>Company Name Desktop Background</string>
+	<key>PayloadIdentifier</key>
+	<string>com.company.desktop_background</string>
+	<key>PayloadOrganization</key>
+	<string>SAP</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>D52AB8A6-FBBE-451E-9EB2-2382B7EB409A</string>
+</dict>
+</plist>
