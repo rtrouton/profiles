@@ -15,7 +15,7 @@
 							<key>mcx_preference_settings</key>
 							<dict>
 								<key>HowToCheck</key>
-								<string>AutomaticDownload</string>
+								<string>Manual</string>
 							</dict>
 						</dict>
 					</array>
@@ -24,21 +24,21 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>MCXToProfile.67ad2621-b510-4060-b971-7f7cf51506c9.alacarte.customsettings.c00e472d-4cb4-4231-8fd4-c7fa866efc00</string>
+			<string>MCXToProfile.5bdca5da-b008-4696-802e-6cf92061f770.alacarte.customsettings.90175de1-d8c8-4fb5-b011-5445ccaaf4f3</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
-			<string>c00e472d-4cb4-4231-8fd4-c7fa866efc00</string>
+			<string>90175de1-d8c8-4fb5-b011-5445ccaaf4f3</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Enable Automatic Download and Installation of Microsoft Office 2016 Updates</string>
+	<string>Disable Automatic Download and Installation of Microsoft Office 2016 Updates</string>
 	<key>PayloadDisplayName</key>
-	<string>Enable Automatic Download and Installation of Microsoft Office 2016 Updates</string>
+	<string>Disable Automatic Download and Installation of Microsoft Office 2016 Updates</string>
 	<key>PayloadIdentifier</key>
-	<string>com.company.profile.EnableAutomaticDownloadAndInstall</string>
+	<string>com.company.profile.DisableAutomaticDownloadAndInstall</string>
 	<key>PayloadOrganization</key>
 	<string>Company Name</string>
 	<key>PayloadRemovalDisallowed</key>
@@ -48,7 +48,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>67ad2621-b510-4060-b971-7f7cf51506c9</string>
+	<string>5bdca5da-b008-4696-802e-6cf92061f770</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
