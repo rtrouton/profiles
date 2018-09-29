@@ -10,25 +10,25 @@
 			<key>PayloadDisplayName</key>
 			<string>Setup Assistant</string>
 			<key>PayloadIdentifier</key>
-			<string>com.company.4886D259-E9F8-44C1-8148-862882A2491E.com.apple.SetupAssistant.managed.4ADB274C-7725-42C8-BB60-3192158FC9CA</string>
+			<string>com.company.74FB4128-7EB4-4243-8771-E984440C41A6.com.apple.SetupAssistant.managed.4C284A41-CDA8-49D0-8A08-7143E8CCD4FE</string>
 			<key>PayloadOrganization</key>
 			<string></string>
 			<key>PayloadType</key>
 			<string>com.apple.SetupAssistant.managed</string>
 			<key>PayloadUUID</key>
-			<string>4ADB274C-7725-42C8-BB60-3192158FC9CA</string>
+			<string>4C284A41-CDA8-49D0-8A08-7143E8CCD4FE</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>SkipTouchIDSetup</key>
+			<key>SkipAppearance</key>
 			<true/>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Skips the Touch ID Setup pop-up window</string>
+	<string>Skip the Dark or Light Appearance pop-up window</string>
 	<key>PayloadDisplayName</key>
-	<string>Skip Touch ID Setup</string>
+	<string>Skip Dark or Light Appearance</string>
 	<key>PayloadIdentifier</key>
-	<string>com.company.4886D259-E9F8-44C1-8148-862882A2491E</string>
+	<string>com.company.74FB4128-7EB4-4243-8771-E984440C41A6</string>
 	<key>PayloadOrganization</key>
 	<string>Company Name</string>
 	<key>PayloadScope</key>
@@ -36,7 +36,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>4886D259-E9F8-44C1-8148-862882A2491E</string>
+	<string>74FB4128-7EB4-4243-8771-E984440C41A6</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>

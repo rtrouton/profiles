@@ -1,43 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-	<dict>
-		<key>PayloadIdentifier</key>
-		<string>com.github.93de3086-a916-4c08-8139-aa6b43986067.alacarte</string>
-		<key>PayloadRemovalDisallowed</key>
-		<false/>
-		<key>PayloadScope</key>
-		<string>System</string>
-		<key>PayloadType</key>
-		<string>Configuration</string>
-		<key>PayloadUUID</key>
-		<string>93de3086-a916-4c08-8139-aa6b43986067</string>
-		<key>PayloadOrganization</key>
-		<string>Company Name</string>
-		<key>PayloadVersion</key>
-		<integer>1</integer>
-		<key>PayloadDescription</key>
-		<string>Skips the Apple Privacy pop-up window</string>
-		<key>PayloadDisplayName</key>
-		<string>Skip Apple Privacy Message</string>
-		<key>PayloadContent</key>
-		<array>
-			<dict>
-				<key>PayloadType</key>
-				<string>com.apple.SetupAssistant.managed</string>
-				<key>PayloadVersion</key>
-				<integer>1</integer>
-				<key>PayloadIdentifier</key>
-				<string>com.github.93de3086-a916-4c08-8139-aa6b43986067.alacarte.loginwindow.c5b06ada-b78b-4fe2-9ab2-95776aae67b6.managed</string>
-				<key>PayloadEnabled</key>
-				<true/>
-				<key>PayloadUUID</key>
-				<string>27416007-ad35-4ac7-b93f-81cf1452d384</string>
-				<key>PayloadDisplayName</key>
-				<string>Login Window</string>
-				<key>SkipPrivacySetup</key>
-				<true/>
-			</dict>
-		</array>
-	</dict>
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures Setup Assistant settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Setup Assistant</string>
+			<key>PayloadIdentifier</key>
+			<string>com.company.DDC1D584-0C34-4DFD-AACE-33FE77ECA441.com.apple.SetupAssistant.managed.05968E12-3BDB-48D2-A4D1-43FFEA830B53</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.SetupAssistant.managed</string>
+			<key>PayloadUUID</key>
+			<string>05968E12-3BDB-48D2-A4D1-43FFEA830B53</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SkipPrivacySetup</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Skip the Data and Privacy Consent pop-up window</string>
+	<key>PayloadDisplayName</key>
+	<string>Skip Data and Privacy Consent</string>
+	<key>PayloadIdentifier</key>
+	<string>com.company.DDC1D584-0C34-4DFD-AACE-33FE77ECA441</string>
+	<key>PayloadOrganization</key>
+	<string>Company Name</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>DDC1D584-0C34-4DFD-AACE-33FE77ECA441</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
 </plist>
