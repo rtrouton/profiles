@@ -7,7 +7,7 @@
 		<dict>
 			<key>PayloadContent</key>
 			<dict>
-				<key>com.microsoft.outlook</key>
+				<key>com.microsoft.Outlook</key>
 				<dict>
 					<key>Forced</key>
 					<array>
