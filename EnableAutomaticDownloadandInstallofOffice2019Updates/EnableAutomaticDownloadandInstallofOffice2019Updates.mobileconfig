@@ -58,6 +58,20 @@
 										<key>LCID</key>
 										<integer>1033</integer>
 									</dict>
+									<key>/Applications/Microsoft Defender ATP.app</key>
+									<dict>
+									  <key>Application ID</key>
+									  <string>WDAV00</string>
+									  <key>LCID</key>
+									  <string>1033</string>
+									</dict>
+									<key>/Applications/Microsoft Teams.app</key>
+									<dict>
+									  <key>Application ID</key>
+									  <string>TEAM01</string>
+									  <key>LCID</key>
+									  <string>1033</string>
+									</dict>
 									<key>/Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app</key>
 									<dict>
 										<key>Application ID</key>
