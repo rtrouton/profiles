@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures Allowed Media settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Allowed Media</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.systemuiserver.0ACC3D9D-EAE5-4D00-BBBF-A5ADE1165E70.9801127D-BD38-44B9-B029-B9BCD2C8A5C9</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.systemuiserver</string>
+			<key>PayloadUUID</key>
+			<string>9801127D-BD38-44B9-B029-B9BCD2C8A5C9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>mount-controls</key>
+			<dict>
+				<key>harddisk-external</key>
+				<array>
+					<string>authenticate</string>
+				</array>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>This policy connects external drives once admin authentication is provided.</string>
+	<key>PayloadDisplayName</key>
+	<string>Require Authentication for External Drives</string>
+	<key>PayloadIdentifier</key>
+	<string>com.company.04D55EBE-4DF2-4DDB-BC9F-7C51448201D8</string>
+	<key>PayloadOrganization</key>
+	<string>Company Name</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>794330F1-AEC2-4BC1-B0A7-3C1BD5433576</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

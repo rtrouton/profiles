@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures Allowed Media settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Allowed Media</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.systemuiserver</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.systemuiserver</string>
+			<key>PayloadUUID</key>
+			<string>236E259B-C530-4497-A0E1-2D680EB14330</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>mount-controls</key>
+			<dict>
+				<key>harddisk-external</key>
+				<array>
+					<string>eject</string>
+					<string>alert</string>
+				</array>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>This policy automatically alerts for and ejects external drives when connected.</string>
+	<key>PayloadDisplayName</key>
+	<string>Block External Drives</string>
+	<key>PayloadIdentifier</key>
+	<string>com.company.087B9469-4904-49EB-8913-DA4AB370EB1C</string>
+	<key>PayloadOrganization</key>
+	<string>Company Name</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>087B9469-4904-49EB-8913-DA4AB370EB1C</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

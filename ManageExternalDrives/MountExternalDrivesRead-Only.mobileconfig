@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures Allowed Media settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Allowed Media</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.systemuiserver.0ACC3D9D-EAE5-4D00-BBBF-A5ADE1165E70</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.systemuiserver</string>
+			<key>PayloadUUID</key>
+			<string>0ACC3D9D-EAE5-4D00-BBBF-A5ADE1165E70</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>mount-controls</key>
+			<dict>
+				<key>harddisk-external</key>
+				<array>
+					<string>read-only</string>
+				</array>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>This policy connects external drives as read-only.</string>
+	<key>PayloadDisplayName</key>
+	<string>Mount External Drives Read-Only</string>
+	<key>PayloadIdentifier</key>
+	<string>com.company.E67F36C1-D674-4107-A879-A5F277980C74</string>
+	<key>PayloadOrganization</key>
+	<string>Company Name</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>298974B0-452E-4CB1-B964-6ACAF09725C5</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
