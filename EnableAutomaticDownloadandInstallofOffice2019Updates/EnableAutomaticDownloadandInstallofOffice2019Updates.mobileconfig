@@ -1,128 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>PayloadContent</key>
-	<array>
-		<dict>
-			<key>PayloadContent</key>
-			<dict>
-				<key>com.microsoft.autoupdate2</key>
-				<dict>
-					<key>Forced</key>
-					<array>
-						<dict>
-							<key>mcx_preference_settings</key>
-							<dict>
-								<key>Applications</key>
-								<dict>
-									<key>/Applications/Microsoft Excel.app</key>
-									<dict>
-										<key>Application ID</key>
-										<string>XCEL2019</string>
-										<key>LCID</key>
-										<integer>1033</integer>
-									</dict>
-									<key>/Applications/Microsoft OneNote.app</key>
-									<dict>
-										<key>Application ID</key>
-										<string>ONMC2019</string>
-										<key>LCID</key>
-										<string>1033</string>
-									</dict>
-									<key>/Applications/Microsoft Outlook.app</key>
-									<dict>
-										<key>Application ID</key>
-										<string>OPIM2019</string>
-										<key>LCID</key>
-										<integer>1033</integer>
-									</dict>
-									<key>/Applications/Microsoft PowerPoint.app</key>
-									<dict>
-										<key>Application ID</key>
-										<string>PPT32019</string>
-										<key>LCID</key>
-										<integer>1033</integer>
-									</dict>
-									<key>/Applications/Microsoft Word.app</key>
-									<dict>
-										<key>Application ID</key>
-										<string>MSWD2019</string>
-										<key>LCID</key>
-										<integer>1033</integer>
-									</dict>
-									<key>/Applications/Skype for Business.app</key>
-									<dict>
-										<key>Application ID</key>
-										<string>MSFB16</string>
-										<key>LCID</key>
-										<integer>1033</integer>
-									</dict>
-									<key>/Applications/Microsoft Defender ATP.app</key>
-									<dict>
-									  <key>Application ID</key>
-									  <string>WDAV00</string>
-									  <key>LCID</key>
-									  <string>1033</string>
-									</dict>
-									<key>/Applications/Microsoft Teams.app</key>
-									<dict>
-									  <key>Application ID</key>
-									  <string>TEAM01</string>
-									  <key>LCID</key>
-									  <string>1033</string>
-									</dict>
-									<key>/Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app</key>
-									<dict>
-										<key>Application ID</key>
-										<string>MSau03</string>
-										<key>LCID</key>
-										<integer>1033</integer>
-									</dict>
-									<key>/Library/Application Support/Microsoft/MERP2.0/Microsoft Error Reporting.app</key>
-									<dict>
-										<key>Application ID</key>
-										<string>Merp2</string>
-										<key>LCID</key>
-										<integer>1033</integer>
-									</dict>
-								</dict>
-								<key>HowToCheck</key>
-								<string>AutomaticDownload</string>
-							</dict>
-						</dict>
-					</array>
-				</dict>
-			</dict>
-			<key>PayloadEnabled</key>
-			<true/>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.ManagedClient.preferences.2E892457-0179-4937-903A-7763D06E8B0A</string>
-			<key>PayloadType</key>
-			<string>com.apple.ManagedClient.preferences</string>
-			<key>PayloadUUID</key>
-			<string>2E892457-0179-4937-903A-7763D06E8B0A</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-		</dict>
-	</array>
-	<key>PayloadDescription</key>
-	<string>This profile enables automatic download and installation of Microsoft Office 2019 updates.</string>
-	<key>PayloadDisplayName</key>
-	<string>Enable Automatic Download and Installation of Microsoft Office 2019 Updates</string>
-	<key>PayloadIdentifier</key>
-	<string>com.company.office.autoupdate</string>
-	<key>PayloadOrganization</key>
-	<string>Company Name</string>
-	<key>PayloadRemovalDisallowed</key>
-	<false/>
-	<key>PayloadScope</key>
-	<string>System</string>
-	<key>PayloadType</key>
-	<string>Configuration</string>
-	<key>PayloadUUID</key>
-	<string>9E69BE74-D3F3-4022-9268-6E33E8CA231A</string>
-	<key>PayloadVersion</key>
-	<integer>1</integer>
-</dict>
+<plist version="1">
+  <dict>
+    <key>PayloadUUID</key>
+    <string>FF9BCC6D-5402-4603-82CF-7C9FD2F1975F</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadOrganization</key>
+    <string>Company Name</string>
+    <key>PayloadIdentifier</key>
+    <string>FF9BCC6D-5402-4603-82CF-7C9FD2F1975F</string>
+    <key>PayloadDisplayName</key>
+    <string>Microsoft Office Autoupdate</string>
+    <key>PayloadDescription</key>
+    <string>This profile enables automatic download and installation of Microsoft Office 365 updates.</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadEnabled</key>
+    <true/>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadScope</key>
+    <string>System</string>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>PayloadUUID</key>
+        <string>445DE888-C804-4B0E-B3AF-844ECC220C84</string>
+        <key>PayloadType</key>
+        <string>com.apple.ManagedClient.preferences</string>
+        <key>PayloadOrganization</key>
+        <string>SAP SE</string>
+        <key>PayloadIdentifier</key>
+        <string>com.apple.ManagedClient.preferences.445DE888-C804-4B0E-B3AF-844ECC220C84</string>
+        <key>PayloadDisplayName</key>
+        <string>Custom</string>
+        <key>PayloadDescription</key>
+        <string/>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>PayloadEnabled</key>
+        <true/>
+        <key>PayloadContent</key>
+        <dict>
+          <key>com.microsoft.autoupdate2</key>
+          <dict>
+            <key>Forced</key>
+            <array>
+              <dict>
+                <key>mcx_preference_settings</key>
+                <dict>
+                  <key>Applications</key>
+                  <dict>
+                    <key>/Applications/Microsoft Excel.app</key>
+                    <dict>
+                      <key>LCID</key>
+                      <integer>1033</integer>
+                      <key>Application ID</key>
+                      <string>XCEL2019</string>
+                    </dict>
+                    <key>/Applications/Microsoft PowerPoint.app</key>
+                    <dict>
+                      <key>LCID</key>
+                      <integer>1033</integer>
+                      <key>Application ID</key>
+                      <string>PPT32019</string>
+                    </dict>
+                    <key>/Applications/Skype for Business.app</key>
+                    <dict>
+                      <key>LCID</key>
+                      <integer>1033</integer>
+                      <key>Application ID</key>
+                      <string>MSFB16</string>
+                    </dict>
+                    <key>/Applications/Microsoft Outlook.app</key>
+                    <dict>
+                      <key>LCID</key>
+                      <integer>1033</integer>
+                      <key>Application ID</key>
+                      <string>OPIM2019</string>
+                    </dict>
+                    <key>/Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app</key>
+                    <dict>
+                      <key>LCID</key>
+                      <integer>1033</integer>
+                      <key>Application ID</key>
+                      <string>MSau04</string>
+                    </dict>
+                    <key>/Applications/Microsoft Remote Desktop.app</key>
+                    <dict>
+                      <key>LCID</key>
+                      <string>1033</string>
+                      <key>Application ID</key>
+                      <string>MSRD10</string>
+                    </dict>
+                    <key>/Library/Application Support/Microsoft/MERP2.0/Microsoft Error Reporting.app</key>
+                    <dict>
+                      <key>LCID</key>
+                      <integer>1033</integer>
+                      <key>Application ID</key>
+                      <string>Merp2</string>
+                    </dict>
+                    <key>/Applications/Microsoft Word.app</key>
+                    <dict>
+                      <key>LCID</key>
+                      <integer>1033</integer>
+                      <key>Application ID</key>
+                      <string>MSWD2019</string>
+                    </dict>
+                    <key>/Applications/OneDrive.app</key>
+                    <dict>
+                      <key>LCID</key>
+                      <string>1033</string>
+                      <key>Application ID</key>
+                      <string>ONDR18</string>
+                    </dict>
+                    <key>/Applications/Microsoft Teams.app</key>
+                    <dict>
+                      <key>LCID</key>
+                      <string>1033</string>
+                      <key>Application ID</key>
+                      <string>TEAM01</string>
+                    </dict>
+                    <key>/Applications/Microsoft OneNote.app</key>
+                    <dict>
+                      <key>LCID</key>
+                      <string>1033</string>
+                      <key>Application ID</key>
+                      <string>ONMC2019</string>
+                    </dict>
+                    <key>/Applications/Microsoft Defender ATP.app</key>
+                    <dict>
+                      <key>LCID</key>
+                      <string>1033</string>
+                      <key>Application ID</key>
+                      <string>WDAV00</string>
+                    </dict>
+                    <key>/Applications/Microsoft Edge Dev.app</key>
+                    <dict>
+                      <key>LCID</key>
+                      <string>1033</string>
+                      <key>Application ID</key>
+                      <string>EDDV01</string>
+                    </dict>
+                  </dict>
+                  <key>HowToCheck</key>
+                  <string>AutomaticDownload</string>
+                </dict>
+              </dict>
+            </array>
+          </dict>
+        </dict>
+      </dict>
+    </array>
+  </dict>
 </plist>
