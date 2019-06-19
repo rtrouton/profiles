@@ -7,6 +7,7 @@ This management profile enables the **Automatically Download and Install** optio
 The profile also registers the following Microsoft applications with MAU. 
 
 * Microsoft Excel
+* Microsoft Edge Developer
 * Microsoft OneNote
 * Microsoft Outlook
 * Microsoft PowerPoint
