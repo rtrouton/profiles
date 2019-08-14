@@ -5,30 +5,20 @@
 	<key>PayloadContent</key>
 	<array>
 		<dict>
-			<key>PayloadContent</key>
-			<dict>
-				<key>com.apple.finder</key>
-				<dict>
-					<key>Forced</key>
-					<array>
-						<dict>
-							<key>mcx_preference_settings</key>
-							<dict>
-								<key>FXRemoveOldTrashItems</key>
-								<true/>
-							</dict>
-						</dict>
-					</array>
-				</dict>
-			</dict>
-			<key>PayloadEnabled</key>
+			<key>FXRemoveOldTrashItems</key>
 			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures Finder settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Finder</string>
 			<key>PayloadIdentifier</key>
-			<string>MCXToProfile.0b1eeedc-a9f6-4975-a8c4-f5b3292ef574.alacarte.customsettings.0040cc99-9a8e-4a9b-a9d1-5e1ae8a0a30c</string>
+			<string>com.company.4860A2F2-D5B8-47C2-9E99-F537365178F1.com.apple.finder.DFC48126-E148-4D01-8D23-27AB19BC4458</string>
+			<key>PayloadOrganization</key>
+			<string></string>
 			<key>PayloadType</key>
-			<string>com.apple.ManagedClient.preferences</string>
+			<string>com.apple.finder</string>
 			<key>PayloadUUID</key>
-			<string>0040cc99-9a8e-4a9b-a9d1-5e1ae8a0a30c</string>
+			<string>DFC48126-E148-4D01-8D23-27AB19BC4458</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -36,19 +26,17 @@
 	<key>PayloadDescription</key>
 	<string>Automatically removes items from the trash after the items have been in the trash for more than 30 days</string>
 	<key>PayloadDisplayName</key>
-	<string>Remove Files From Trash After 30 Days</string>
+	<string>Remove Trash After 30 Days</string>
 	<key>PayloadIdentifier</key>
-	<string>com.company.0b1eeedc-a9f6-4975-a8c4-f5b3292ef574.remove_trash_after_30_days</string>
+	<string>com.company.4860A2F2-D5B8-47C2-9E99-F537365178F1</string>
 	<key>PayloadOrganization</key>
 	<string>Company Name</string>
-	<key>PayloadRemovalDisallowed</key>
-	<false/>
 	<key>PayloadScope</key>
 	<string>System</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>0b1eeedc-a9f6-4975-a8c4-f5b3292ef574</string>
+	<string>4860A2F2-D5B8-47C2-9E99-F537365178F1</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
