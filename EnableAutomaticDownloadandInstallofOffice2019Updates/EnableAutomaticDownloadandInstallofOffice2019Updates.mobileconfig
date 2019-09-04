@@ -3,13 +3,13 @@
 <plist version="1">
   <dict>
     <key>PayloadUUID</key>
-    <string>FF9BCC6D-5402-4603-82CF-7C9FD2F1975F</string>
+    <string>837198E1-F8B0-4510-B66E-4148B39FC669</string>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadOrganization</key>
     <string>Company Name</string>
     <key>PayloadIdentifier</key>
-    <string>FF9BCC6D-5402-4603-82CF-7C9FD2F1975F</string>
+    <string>837198E1-F8B0-4510-B66E-4148B39FC669</string>
     <key>PayloadDisplayName</key>
     <string>Microsoft Office Autoupdate</string>
     <key>PayloadDescription</key>
@@ -26,13 +26,13 @@
     <array>
       <dict>
         <key>PayloadUUID</key>
-        <string>445DE888-C804-4B0E-B3AF-844ECC220C84</string>
+        <string>5D98A6AF-F535-44AE-84FB-44576B6EDCF2</string>
         <key>PayloadType</key>
         <string>com.apple.ManagedClient.preferences</string>
         <key>PayloadOrganization</key>
         <string>SAP SE</string>
         <key>PayloadIdentifier</key>
-        <string>com.apple.ManagedClient.preferences.445DE888-C804-4B0E-B3AF-844ECC220C84</string>
+        <string>com.apple.ManagedClient.preferences.5D98A6AF-F535-44AE-84FB-44576B6EDCF2</string>
         <key>PayloadDisplayName</key>
         <string>Custom</string>
         <key>PayloadDescription</key>
@@ -52,6 +52,34 @@
                 <dict>
                   <key>Applications</key>
                   <dict>
+                    <key>/Applications/Microsoft Edge.app</key>
+                      <dict>
+                      <key>LCID</key>
+                      <string>1033</string>
+                      <key>Application ID</key>
+                      <string>EDGE01</string>
+                    </dict>
+                    <key>/Applications/Microsoft Edge Beta.app</key>
+                    <dict>
+                      <key>LCID</key>
+                      <string>1033</string>
+                      <key>Application ID</key>
+                      <string>EDBT01</string>
+                    </dict>
+                    <key>/Applications/Microsoft Edge Canary.app</key>
+                    <dict>
+                      <key>LCID</key>
+                      <string>1033</string>
+                      <key>Application ID</key>
+                      <string>EDCN01</string>
+                    </dict>
+                    <key>/Applications/Microsoft Edge Dev.app</key>
+                    <dict>
+                      <key>LCID</key>
+                      <string>1033</string>
+                      <key>Application ID</key>
+                      <string>EDDV01</string>
+                    </dict>
                     <key>/Applications/Microsoft Excel.app</key>
                     <dict>
                       <key>LCID</key>
@@ -136,12 +164,12 @@
                       <key>Application ID</key>
                       <string>WDAV00</string>
                     </dict>
-                    <key>/Applications/Microsoft Edge Dev.app</key>
+                    <key>/Applications/Company Portal.app</key>
                     <dict>
                       <key>LCID</key>
                       <string>1033</string>
                       <key>Application ID</key>
-                      <string>EDDV01</string>
+                      <string>IMCP01</string>
                     </dict>
                   </dict>
                   <key>HowToCheck</key>
