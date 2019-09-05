@@ -24,7 +24,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Disable the ability to create screenshots on macOS</string>
+	<string>Disable the ability to create screenshots or screen recordings on macOS</string>
 	<key>PayloadDisplayName</key>
 	<string>Disable Screenshot Creation</string>
 	<key>PayloadIdentifier</key>
