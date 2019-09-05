@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures restrictions</string>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.4F47396E-A6FE-4A93-903B-AF515787E45A.com.apple.applicationaccess.8E71EA7C-8960-4CB5-A36D-0A633F7E1213</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>8E71EA7C-8960-4CB5-A36D-0A633F7E1213</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowScreenShot</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Disable the ability to create screenshots on macOS</string>
+	<key>PayloadDisplayName</key>
+	<string>Disable Screenshot Creation</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.4F47396E-A6FE-4A93-903B-AF515787E45A</string>
+	<key>PayloadOrganization</key>
+	<string>Company Name</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>4F47396E-A6FE-4A93-903B-AF515787E45A</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
