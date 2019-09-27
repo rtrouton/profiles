@@ -1,0 +1,1 @@
+This macOS management profile sets the default NTP server and time zone for macOS.

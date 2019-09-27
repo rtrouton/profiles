@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures Time Server settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Time Server</string>
+			<key>PayloadIdentifier</key>
+			<string>com.company.417EB400-B9B5-45DD-BFE1-3120D784841B.com.apple.MCX.084FC2B9-6225-4081-B91C-1F577524A80C</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.MCX</string>
+			<key>PayloadUUID</key>
+			<string>084FC2B9-6225-4081-B91C-1F577524A80C</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>timeServer</key>
+			<string>time.apple.com</string>
+			<key>timeZone</key>
+			<string>America/New York</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Sets the time server and time zone</string>
+	<key>PayloadDisplayName</key>
+	<string>Set Time Server and Time Zone</string>
+	<key>PayloadIdentifier</key>
+	<string>com.company.417EB400-B9B5-45DD-BFE1-3120D784841B</string>
+	<key>PayloadOrganization</key>
+	<string>Company Name</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>417EB400-B9B5-45DD-BFE1-3120D784841B</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
