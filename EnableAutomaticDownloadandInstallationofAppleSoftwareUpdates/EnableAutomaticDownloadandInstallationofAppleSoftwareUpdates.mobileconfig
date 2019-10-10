@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1">
+  <dict>
+    <key>PayloadUUID</key>
+    <string>3C307E14-8CDD-4EB8-A696-AC967397CE40</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadOrganization</key>
+    <string>Company Name</string>
+    <key>PayloadIdentifier</key>
+    <string>0250B0DD-84C3-4DA4-91B3-6FA7824F54CD</string>
+    <key>PayloadDisplayName</key>
+    <string>Apple Software Update Settings</string>
+    <key>PayloadDescription</key>
+    <string>Configures the macOS software update settings to enable all automatic update options.</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadEnabled</key>
+    <true/>
+    <key>PayloadRemovalDisallowed</key>
+    <true/>
+    <key>PayloadScope</key>
+    <string>System</string>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>PayloadUUID</key>
+        <string>A1936EA9-62CC-407B-94B0-1AD14BD513BE</string>
+        <key>PayloadType</key>
+        <string>com.apple.SoftwareUpdate</string>
+        <key>PayloadOrganization</key>
+        <string>Company Name</string>
+        <key>PayloadIdentifier</key>
+        <string>com.apple.SoftwareUpdate.A1936EA9-62CC-407B-94B0-1AD14BD513BE</string>
+        <key>PayloadDisplayName</key>
+        <string>Software Update</string>
+        <key>PayloadDescription</key>
+        <string/>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>PayloadEnabled</key>
+        <true/>
+        <key>ConfigDataInstall</key>
+        <true/>
+        <key>CriticalUpdateInstall</key>
+        <true/>
+        <key>AutomaticCheckEnabled</key>
+        <true/>
+        <key>restrict-software-update-require-admin-to-install</key>
+        <false/>
+        <key>AutomaticDownload</key>
+        <true/>
+        <key>AutomaticallyInstallAppUpdates</key>
+        <true/>
+        <key>AutomaticallyInstallMacOSUpdates</key>
+        <true/>
+        <key>CatalogURL</key>
+        <string/>
+        <key>AllowPreReleaseInstallation</key>
+        <true/>
+      </dict>
+    </array>
+  </dict>
+</plist>
