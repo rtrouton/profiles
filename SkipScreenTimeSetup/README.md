@@ -1,0 +1,3 @@
+This OS X management profile suppresses the Activation Lock pop-up window for all accounts on a particular Mac.
+
+Note: This profile works on macOS 10.15.x and later

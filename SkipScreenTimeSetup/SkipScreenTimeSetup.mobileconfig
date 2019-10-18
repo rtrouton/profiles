@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures Setup Assistant settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Setup Assistant</string>
+			<key>PayloadIdentifier</key>
+			<string>com.company.1C2B05EC-3EB7-4DB8-9B3C-7CAE3C79326F.com.apple.SetupAssistant.managed.4E386E75-2DB9-4A60-8D52-07599F447EC9</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.SetupAssistant.managed</string>
+			<key>PayloadUUID</key>
+			<string>4E386E75-2DB9-4A60-8D52-07599F447EC9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SkipScreenTime</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Skips the Screen Time Setup pop-up window</string>
+	<key>PayloadDisplayName</key>
+	<string>Skip Screen Time Setup</string>
+	<key>PayloadIdentifier</key>
+	<string>com.company.1C2B05EC-3EB7-4DB8-9B3C-7CAE3C79326F</string>
+	<key>PayloadOrganization</key>
+	<string>Company Name</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>1C2B05EC-3EB7-4DB8-9B3C-7CAE3C79326F</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
