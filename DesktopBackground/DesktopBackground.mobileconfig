@@ -32,7 +32,7 @@
 	<key>PayloadIdentifier</key>
 	<string>com.company.desktop_background</string>
 	<key>PayloadOrganization</key>
-	<string>SAP</string>
+	<string>Company Name</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
