@@ -22,7 +22,7 @@
 			<key>locked</key>
 			<false/>
 			<key>override-picture-path</key>
-			<string>/Library/Desktop Pictures/Bahamas Aerial.jpg</string>
+			<string>/System/Library/Desktop Pictures/Desert 6.jpg</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
@@ -32,10 +32,12 @@
 	<key>PayloadIdentifier</key>
 	<string>com.company.desktop_background</string>
 	<key>PayloadOrganization</key>
-	<string>SAP</string>
+	<string>Company Name</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
 	<string>D52AB8A6-FBBE-451E-9EB2-2382B7EB409A</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
 </dict>
 </plist>
