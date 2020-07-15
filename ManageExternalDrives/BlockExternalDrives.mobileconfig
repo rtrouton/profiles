@@ -24,7 +24,6 @@
 				<key>harddisk-external</key>
 				<array>
 					<string>eject</string>
-					<string>alert</string>
 				</array>
 			</dict>
 		</dict>
