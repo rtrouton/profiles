@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>LogForTroubleshooting</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures Microsoft Outlook settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Microsoft Outlook</string>
+			<key>PayloadIdentifier</key>
+			<string>com.company.E1DBB532-B776-4560-8981-9025ABC7E16F.com.microsoft.Outlook.89EBD11D-41F8-4BD0-9979-7CA02DD58BFA</string>
+			<key>PayloadType</key>
+			<string>com.microsoft.Outlook</string>
+			<key>PayloadUUID</key>
+			<string>89EBD11D-41F8-4BD0-9979-7CA02DD58BFA</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Turn on diagnostic logging for Microsoft Outlook </string>
+	<key>PayloadDisplayName</key>
+	<string>Enable Outlook Logging</string>
+	<key>PayloadIdentifier</key>
+	<string>com.company.E1DBB532-B776-4560-8981-9025ABC7E16F</string>
+	<key>PayloadOrganization</key>
+	<string>Company Name</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>E1DBB532-B776-4560-8981-9025ABC7E16F</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
