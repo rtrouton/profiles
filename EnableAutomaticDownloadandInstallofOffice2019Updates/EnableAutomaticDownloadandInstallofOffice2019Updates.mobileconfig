@@ -30,7 +30,7 @@
         <key>PayloadType</key>
         <string>com.apple.ManagedClient.preferences</string>
         <key>PayloadOrganization</key>
-        <string>SAP SE</string>
+        <string>Company Name</string>
         <key>PayloadIdentifier</key>
         <string>com.apple.ManagedClient.preferences.5D98A6AF-F535-44AE-84FB-44576B6EDCF2</string>
         <key>PayloadDisplayName</key>
