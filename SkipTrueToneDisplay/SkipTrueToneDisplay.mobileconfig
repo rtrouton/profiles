@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>Configures Setup Assistant settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Setup Assistant</string>
+			<key>PayloadIdentifier</key>
+			<string>com.company.5AAEA376-BC9F-42A9-8372-8CE0380E9D14.com.apple.SetupAssistant.managed.F3644E59-7BF0-4C58-891A-E183ADDDB8F6</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.SetupAssistant.managed</string>
+			<key>PayloadUUID</key>
+			<string>F3644E59-7BF0-4C58-891A-E183ADDDB8F6</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>SkipTrueTone</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Skip the True Tone Display pop-up window</string>
+	<key>PayloadDisplayName</key>
+	<string>Skip True Tone Display</string>
+	<key>PayloadIdentifier</key>
+	<string>com.company.5AAEA376-BC9F-42A9-8372-8CE0380E9D14</string>
+	<key>PayloadOrganization</key>
+	<string>Company Name</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>5AAEA376-BC9F-42A9-8372-8CE0380E9D14</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
