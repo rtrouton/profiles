@@ -19,3 +19,5 @@ For more information on full disk access, please see the links below:
 * [https://macpaw.com/how-to/full-disk-access-mojave](https://macpaw.com/how-to/full-disk-access-mojave)
 * [https://support.apple.com/guide/mdm/privacy-preferences-policy-control-payload-mdm38df53c2a/web](https://macpaw.com/how-to/full-disk-access-mojave)
 
+Hat tip to [poundbangbash](https://github.com/poundbangbash) for providing the correct PPPC settings for SSH full disk access by allowing full disk access to `/usr/libexec/sshd-keygen-wrapper`.
+
