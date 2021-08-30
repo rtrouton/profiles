@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>com.apple.preferences.sharing.allowFullDiskAccess</key>
+			<true/>
+			<key>PayloadDisplayName</key>
+			<string>Enable Full Disk Access for SSH</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.systempreferences</string>
+			<key>PayloadType</key>
+			<string>com.apple.systempreferences</string>
+			<key>PayloadUUID</key>
+			<string>9634C1A5-C1AB-4483-825D-55EEC5B3050A</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enables full disk access for SSH connections when SSH is enabled.</string>
+	<key>PayloadDisplayName</key>
+	<string>Enable Full Disk Access for SSH</string>
+	<key>PayloadIdentifier</key>
+	<string>com.company.18AFCBF5-C752-4A21-9BAE-D28BF3593D4F</string>
+	<key>PayloadOrganization</key>
+	<string>Company Name</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>20BEBA27-68DC-4B17-95FB-3E41A2C2045A</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
