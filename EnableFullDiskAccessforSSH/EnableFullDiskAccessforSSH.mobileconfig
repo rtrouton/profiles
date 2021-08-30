@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>com.apple.preferences.sharing.allowFullDiskAccess</key>
+			<true/>
+			<key>PayloadDisplayName</key>
+			<string>Enable Full Disk Access checkbox in the Sharing preferences</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.systempreferences</string>
+			<key>PayloadType</key>
+			<string>com.apple.systempreferences</string>
+			<key>PayloadUUID</key>
+			<string>7CD9BC84-9FF5-4AF2-9ECA-7EF8A4E5BD40</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Enable Full Disk Access for sshd-keygen-wrapper</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.TCC.configuration-profile-policy</string>
+			<key>PayloadType</key>
+			<string>com.apple.TCC.configuration-profile-policy</string>
+			<key>PayloadUUID</key>
+			<string>AEA53515-202D-4697-8F08-E5552150DFE3</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Services</key>
+			<dict>
+				<key>SystemPolicyAllFiles</key>
+				<array>
+					<dict>
+						<key>Allowed</key>
+						<true/>
+						<key>CodeRequirement</key>
+						<string>identifier "com.apple.sshd-keygen-wrapper" and anchor apple</string>
+						<key>Identifier</key>
+						<string>/usr/libexec/sshd-keygen-wrapper</string>
+						<key>IdentifierType</key>
+						<string>path</string>
+						<key>StaticCode</key>
+						<false/>
+					</dict>
+				</array>
+			</dict>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Enables full disk access for SSH connections when SSH is enabled.</string>
+	<key>PayloadDisplayName</key>
+	<string>Enable Full Disk Access for SSH</string>
+	<key>PayloadIdentifier</key>
+	<string>com.company.A8F09778-6AB1-445A-9BF9-27D090E8F0D2</string>
+	<key>PayloadOrganization</key>
+	<string>Company Name</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>DC3E5642-6760-4C0B-9C73-79EF3228A233</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>TargetDeviceType</key>
+	<integer>5</integer>
+</dict>
+</plist>
