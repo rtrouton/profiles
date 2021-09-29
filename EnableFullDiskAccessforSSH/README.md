@@ -2,7 +2,7 @@ This management profile enables full disk access for SSH connections on macOS 11
 
 It manages the following settings:
 
-* Enables the `Allow full disk access for remote users` checkbox in the `Remote Login` settings in the Sharing preference page
+* Enables the `Allow full disk access for remote users` checkbox in the `Remote Login` settings in the System Preference's Sharing preference pane
 * Enables full disk access for `/usr/libexec/sshd-keygen-wrapper`
 
 ![](readme_images/EnableFullDiskAccessforSSH.png)
