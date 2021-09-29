@@ -22,7 +22,7 @@
 			<key>timeServer</key>
 			<string>time.apple.com</string>
 			<key>timeZone</key>
-			<string>America/New York</string>
+			<string>America/New_York</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
