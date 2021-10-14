@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.applicationaccess.FA3C7B2B-EEEE-42DD-A127-EEB946949591</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>486D6791-6049-4558-87BC-A26D223FE179</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+            <key>allowEraseContentAndSettings</key>
+            <false />
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Disables the Erase All Content And Settings option.</string>
+	<key>PayloadDisplayName</key>
+	<string>Disable Erase All Contents and Settings</string>
+	<key>PayloadIdentifier</key>
+	<string>AC14BB20-8D88-4D1E-9EA5-9EE966701A24</string>
+	<key>PayloadOrganization</key>
+	<string>Company Name</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>FB25D0AD-98E9-445A-BFE8-FB681885FD2C</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
