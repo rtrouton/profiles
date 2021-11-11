@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>AirDrop</string>
+			<key>PayloadIdentifier</key>
+			<string>new.Block AirDrop.applicationaccess</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>7EFBEE81-29A2-4421-B985-B77628E3C62D</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowAirDrop</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Block AirDrop</string>
+	<key>PayloadDisplayName</key>
+	<string>Block AirDrop</string>
+	<key>PayloadIdentifier</key>
+	<string>new.Block AirDrop</string>
+	<key>PayloadOrganization</key>
+	<string>Company Name</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>D7C2C12E-20F5-4FE5-9256-20E46C2DB283</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>TargetDeviceType</key>
+	<integer>0</integer>
+</dict>
+</plist>
