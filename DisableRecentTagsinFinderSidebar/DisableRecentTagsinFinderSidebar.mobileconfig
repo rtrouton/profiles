@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Finder</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.finder</string>
+			<key>PayloadType</key>
+			<string>com.apple.finder</string>
+			<key>PayloadUUID</key>
+			<string>BCAD436D-B808-4558-BC06-DFA71E272BD5</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ShowRecentTags</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Disables Recent Tags from appearing in the Finder sidebar</string>
+	<key>PayloadDisplayName</key>
+	<string>Disable Recent Tags in Finder Sidebar</string>
+	<key>PayloadIdentifier</key>
+	<string>F8E5B965-1A5D-4840-8040-75A6A760AEF1</string>
+	<key>PayloadOrganization</key>
+	<string>Company Name</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>F38C20B5-3D4E-4CB5-B5A0-77A16CDFFDEE</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
