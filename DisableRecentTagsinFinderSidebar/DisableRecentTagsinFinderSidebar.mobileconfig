@@ -20,7 +20,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Disables Recent Tags from appearing in the Finder sidebar</string>
+	<string>Disables Recent Tags in the Finder sidebar</string>
 	<key>PayloadDisplayName</key>
 	<string>Disable Recent Tags in Finder Sidebar</string>
 	<key>PayloadIdentifier</key>
