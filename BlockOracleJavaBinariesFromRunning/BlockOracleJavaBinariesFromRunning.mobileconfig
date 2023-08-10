@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadIdentifier</key>
+	<string>com.company.oracle.jdk.blocklist</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>FCC13722-6D63-4ACB-B7B0-2DCFDCAE1636</string>
+	<key>PayloadOrganization</key>
+	<string>Company Name</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>PayloadDisplayName</key>
+	<string>Block Oracle Java Binaries From Running</string>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess.new</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>com.company.FCC13722-6D63-4ACB-B7B0-2DCFDCAE1636.CD9B5130-B05F-4CBF-953D-BF864B708B84</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadUUID</key>
+			<string>CD9B5130-B05F-4CBF-953D-BF864B708B84</string>
+			<key>PayloadDisplayName</key>
+			<string>Block Oracle Java Binaries From Running</string>
+			<key>familyControlsEnabled</key>
+			<true/>
+			<key>pathBlackList</key>
+			<array>
+				<string>/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/</string>
+				<string>/Library/Java/JavaVirtualMachines/jdk-1.8.jdk/Contents/Home/</string>
+				<string>/Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/</string>
+				<string>/Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/</string>
+				<string>/Library/Java/JavaVirtualMachines/jdk-20.jdk/Contents/Home/</string>
+				<string>/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/</string>
+				<string>/Library/Java/JavaVirtualMachines/jdk-22.jdk/Contents/Home/</string>
+			</array>
+			<key>pathWhiteList</key>
+			<array>
+				<string>/</string>
+			</array>
+			<key>whiteList</key>
+			<array>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
+
