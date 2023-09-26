@@ -1,0 +1,1 @@
+This macOS management profile disables all notifications for Apple's local user account password notification messages on macOS Ventura and later.
