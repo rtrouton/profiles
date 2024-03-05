@@ -1,0 +1,1 @@
+This macOS management profile disables the large clock display at the login window on macOS Sonoma.
