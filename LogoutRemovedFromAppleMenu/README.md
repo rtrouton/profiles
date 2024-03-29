@@ -1,0 +1,1 @@
+This macOS management profile disables the **Log Out...** menu item in the Apple menu.
