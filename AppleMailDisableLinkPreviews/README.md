@@ -1,3 +1,3 @@
-This macOS management profile disables the `Add link preview` setting in Apple Mail.
+This macOS management profile disables the `Add link previews` setting in Apple Mail.
 
 ![](readme_images/AppleMailDisableLinkPreviews.png)
