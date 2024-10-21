@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1">
+   <dict>
+      <key>PayloadUUID</key>
+      <string>1EAE0A50-4FAD-4819-A54E-552491367685</string>
+      <key>PayloadType</key>
+      <string>Configuration</string>
+      <key>PayloadOrganization</key>
+      <string>Company Name</string>
+      <key>PayloadIdentifier</key>
+      <string>1EAE0A50-4FAD-4819-A54E-552491367685</string>
+      <key>PayloadDisplayName</key>
+      <string>Apple Mail Disable Link Previews</string>
+      <key>PayloadDescription</key>
+      <string />
+      <key>PayloadVersion</key>
+      <integer>1</integer>
+      <key>PayloadEnabled</key>
+      <true />
+      <key>PayloadRemovalDisallowed</key>
+      <true />
+      <key>PayloadScope</key>
+      <string>System</string>
+      <key>PayloadContent</key>
+      <array>
+         <dict>
+            <key>PayloadDisplayName</key>
+            <string>Custom Settings</string>
+            <key>PayloadIdentifier</key>
+            <string>977DE155-0BD3-491A-982E-1F8DDF461C68</string>
+            <key>PayloadOrganization</key>
+            <string>Company Name</string>
+            <key>PayloadType</key>
+            <string>com.apple.ManagedClient.preferences</string>
+            <key>PayloadUUID</key>
+            <string>977DE155-0BD3-491A-982E-1F8DDF461C68</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>PayloadContent</key>
+            <dict>
+               <key>com.apple.mail</key>
+               <dict>
+                  <key>Forced</key>
+                  <array>
+                     <dict>
+                        <key>mcx_preference_settings</key>
+                        <dict>
+                           <key>AddLinkPreviews</key>
+                           <false />
+                        </dict>
+                     </dict>
+                  </array>
+               </dict>
+            </dict>
+         </dict>
+      </array>
+   </dict>
+</plist>
