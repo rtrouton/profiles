@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.applicationaccess.1281701E-9695-4447-9028-4962C25162FF</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>1281701E-9695-4447-9028-4962C25162FF</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowGenmoji</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Disables creation of new Genmoji</string>
+	<key>PayloadDisplayName</key>
+	<string>Apple Intelligence Disable Genmoji</string>
+	<key>PayloadIdentifier</key>
+	<string>B83678F5-B2CB-467C-A89F-73F2E2E1346C</string>
+	<key>PayloadOrganization</key>
+	<string>Company Name</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>B83678F5-B2CB-467C-A89F-73F2E2E1346C</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

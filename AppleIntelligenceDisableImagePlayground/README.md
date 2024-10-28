@@ -1,0 +1,1 @@
+This management profile disables Apple Intelligence's Image Playground feature on macOS Sequoia 15.0 and later.

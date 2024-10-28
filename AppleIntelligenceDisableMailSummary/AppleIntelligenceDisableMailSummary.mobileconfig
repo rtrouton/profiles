@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.applicationaccess.6DD01B26-8368-45FE-A4F7-35F4CD153E5D</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>6DD01B26-8368-45FE-A4F7-35F4CD153E5D</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowMailSummary</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Disables Mail Summary and prohibits the ability to create email summaries</string>
+	<key>PayloadDisplayName</key>
+	<string>Apple Intelligence Disable Mail Summary</string>
+	<key>PayloadIdentifier</key>
+	<string>45B76C44-A61D-4A1B-82B9-6118B18DB129</string>
+	<key>PayloadOrganization</key>
+	<string>Company Name</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>45B76C44-A61D-4A1B-82B9-6118B18DB129</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

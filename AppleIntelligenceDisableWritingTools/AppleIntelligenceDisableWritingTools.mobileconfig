@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.applicationaccess.2C74FDD6-E3CD-4E3B-9193-CD4818452895</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>2C74FDD6-E3CD-4E3B-9193-CD4818452895</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowWritingTools</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Disables Apple Intelligence writing tools</string>
+	<key>PayloadDisplayName</key>
+	<string>Apple Intelligence Disable Writing Tools</string>
+	<key>PayloadIdentifier</key>
+	<string>FDDB4857-545D-4538-9C0B-B8ED78FFCE3E</string>
+	<key>PayloadOrganization</key>
+	<string>Company Name</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>FDDB4857-545D-4538-9C0B-B8ED78FFCE3E</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

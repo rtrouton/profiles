@@ -1,0 +1,1 @@
+This management profile disables Apple Intelligence's email summarization feature on macOS Sequoia 15.1 and later.
