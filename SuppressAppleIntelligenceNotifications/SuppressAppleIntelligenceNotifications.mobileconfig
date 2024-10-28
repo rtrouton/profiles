@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1">
+  <dict>
+    <key>PayloadUUID</key>
+    <string>1B270908-4F78-4ADD-A97D-EEFD21AD3732</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadOrganization</key>
+    <string>Company Name</string>
+    <key>PayloadIdentifier</key>
+    <string>1B270908-4F78-4ADD-A97D-EEFD21AD3732</string>
+    <key>PayloadDisplayName</key>
+    <string>Suppress Apple Intelligence notifications</string>
+    <key>PayloadDescription</key>
+    <string/>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadEnabled</key>
+    <true/>
+    <key>PayloadRemovalDisallowed</key>
+    <true/>
+    <key>PayloadScope</key>
+    <string>System</string>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>PayloadDisplayName</key>
+        <string>Notifications Payload</string>
+        <key>PayloadIdentifier</key>
+        <string>7B5578BC-11E6-45B1-A84F-61708AD47711</string>
+        <key>PayloadOrganization</key>
+        <string>Company Name</string>
+        <key>PayloadType</key>
+        <string>com.apple.notificationsettings</string>
+        <key>PayloadUUID</key>
+        <string>7B5578BC-11E6-45B1-A84F-61708AD47711</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>NotificationSettings</key>
+        <array>
+          <dict>
+            <key>BundleIdentifier</key>
+            <string>_SYSTEM_CENTER_:com.apple.followup.alert</string>
+            <key>CriticalAlertEnabled</key>
+            <false/>
+            <key>NotificationsEnabled</key>
+            <false/>
+          </dict>
+        </array>
+      </dict>
+    </array>
+  </dict>
+</plist>
