@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.applicationaccess.C70F311D-B330-4620-9097-F98FD7E39E33</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>C70F311D-B330-4620-9097-F98FD7E39E33</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>forceBypassScreenCaptureAlert</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Disables user notifications for apps which request screen access</string>
+	<key>PayloadDisplayName</key>
+	<string>Disable Screen Access Request User Notifications</string>
+	<key>PayloadIdentifier</key>
+	<string>1A6E3566-0112-40F7-A49F-416D99C61566</string>
+	<key>PayloadOrganization</key>
+	<string>Company Name</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>1A6E3566-0112-40F7-A49F-416D99C61566</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
