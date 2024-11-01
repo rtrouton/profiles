@@ -16,7 +16,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>allowiPhoneMirroring</key>
-			<false/>
+			<false>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
