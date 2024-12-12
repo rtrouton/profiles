@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.applicationaccess.EB34F905-0ED5-4E29-9A4A-5AE77F4D6652</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>EB34F905-0ED5-4E29-9A4A-5AE77F4D6652</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowExternalIntelligenceIntegrationsSignIn</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Disables External Intelligence Sign-in and allows only anonymous access to external services</string>
+	<key>PayloadDisplayName</key>
+	<string>Apple Intelligence Disable External Intelligence Logins</string>
+	<key>PayloadIdentifier</key>
+	<string>995CBF19-0AE8-4098-93A3-A87812366961</string>
+	<key>PayloadOrganization</key>
+	<string>Company Name</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>995CBF19-0AE8-4098-93A3-A87812366961</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

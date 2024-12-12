@@ -1,0 +1,1 @@
+This management profile forces Apple Intelligence to only use anonymous logins when connecting to third party cloud-based intelligence services on macOS Sequoia 15.2 and later.

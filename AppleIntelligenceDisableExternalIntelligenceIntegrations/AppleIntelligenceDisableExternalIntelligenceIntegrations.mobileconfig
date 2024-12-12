@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.applicationaccess.69140388-BF31-4C0E-A791-F8EFDCB54C49</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>69140388-BF31-4C0E-A791-F8EFDCB54C49</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowExternalIntelligenceIntegrations</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Disables External Intelligence Integrations and prohibits integrations with external services including ChatGPT and Google Gemini</string>
+	<key>PayloadDisplayName</key>
+	<string>Apple Intelligence Disable External Intelligence Integrations</string>
+	<key>PayloadIdentifier</key>
+	<string>2B3EE9B6-249E-44DD-B9A6-1E71F72A7E34</string>
+	<key>PayloadOrganization</key>
+	<string>Company Name</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>2B3EE9B6-249E-44DD-B9A6-1E71F72A7E34</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
