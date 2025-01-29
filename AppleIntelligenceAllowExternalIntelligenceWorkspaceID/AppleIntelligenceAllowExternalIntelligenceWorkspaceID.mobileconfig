@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+   <dict>
+      <key>PayloadContent</key>
+      <array>
+         <dict>
+            <key>PayloadDisplayName</key>
+            <string>Restrictions</string>
+            <key>PayloadIdentifier</key>
+            <string>com.apple.applicationaccess.CF921560-2717-4986-8885-4FC8002C6BF7</string>
+            <key>PayloadType</key>
+            <string>com.apple.applicationaccess</string>
+            <key>PayloadUUID</key>
+            <string>CF921560-2717-4986-8885-4FC8002C6BF7</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>allowedExternalIntelligenceWorkspaceIDs</key>
+            <array>
+               <string>workspace_id_goes_here</string>
+            </array>
+         </dict>
+      </array>
+      <key>PayloadDescription</key>
+      <string>Alows External Intelligence Integrations using specific Workspace ID</string>
+      <key>PayloadDisplayName</key>
+      <string>Apple Intelligence Allow External Intelligence Workspace ID</string>
+      <key>PayloadIdentifier</key>
+      <string>14A04D12-F054-4E11-8943-D55DA53A61E9</string>
+      <key>PayloadOrganization</key>
+      <string>Company Name</string>
+      <key>PayloadScope</key>
+      <string>System</string>
+      <key>PayloadType</key>
+      <string>Configuration</string>
+      <key>PayloadUUID</key>
+      <string>14A04D12-F054-4E11-8943-D55DA53A61E9</string>
+      <key>PayloadVersion</key>
+      <integer>1</integer>
+   </dict>
+</plist>

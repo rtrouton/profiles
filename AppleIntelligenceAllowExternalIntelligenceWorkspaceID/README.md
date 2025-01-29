@@ -1,0 +1,1 @@
+This management profile allows Apple Intelligence to only sign into the specified external integration using the specified workspace ID and will require a sign-in to the external service in order to make requests. This profile works on macOS Sequoia 15.3 and later.
