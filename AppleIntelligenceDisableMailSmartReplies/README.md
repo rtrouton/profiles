@@ -1,0 +1,1 @@
+This management profile disables Apple Intelligence's ability to create smart replies for Apple Mail on macOS Sequoia 15.4 and later.

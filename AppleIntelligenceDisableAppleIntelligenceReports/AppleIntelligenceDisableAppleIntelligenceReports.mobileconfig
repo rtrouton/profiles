@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.applicationaccess.F65BDA51-95A1-4370-8D7A-A6A95128CE41</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>F65BDA51-95A1-4370-8D7A-A6A95128CE41</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowAppleIntelligenceReport</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Disables Apple Intelligence Reports</string>
+	<key>PayloadDisplayName</key>
+	<string>Apple Intelligence  Apple Intelligence Reports</string>
+	<key>PayloadIdentifier</key>
+	<string>D5765F88-B025-4339-87A3-541809979570</string>
+	<key>PayloadOrganization</key>
+	<string>Company Name</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>D5765F88-B025-4339-87A3-541809979570</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.applicationaccess.AB679FB1-4165-4408-A880-55C926CCD48C</string>
+			<key>PayloadType</key>
+			<string>com.apple.applicationaccess</string>
+			<key>PayloadUUID</key>
+			<string>AB679FB1-4165-4408-A880-55C926CCD48C</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowSafariSummary</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Disables Safari Summary</string>
+	<key>PayloadDisplayName</key>
+	<string>Apple Intelligence Disable Safari Summary</string>
+	<key>PayloadIdentifier</key>
+	<string>CAB104B0-1D4B-492C-BBCD-902835484F55</string>
+	<key>PayloadOrganization</key>
+	<string>Company Name</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>CAB104B0-1D4B-492C-BBCD-902835484F55</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

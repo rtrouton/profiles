@@ -1,0 +1,1 @@
+This management profile disables Apple Intelligence's ability to create content summaries for Safari on macOS Sequoia 15.4 and later.
