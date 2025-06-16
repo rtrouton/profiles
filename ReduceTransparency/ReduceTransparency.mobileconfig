@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1">
+  <dict>
+    <key>PayloadUUID</key>
+    <string>B0EC9BA7-36FA-4614-A938-0040CA8FB3DD</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadOrganization</key>
+    <string>Company Name</string>
+    <key>PayloadIdentifier</key>
+    <string>B0EC9BA7-36FA-4614-A938-0040CA8FB3DD</string>
+    <key>PayloadDisplayName</key>
+    <string>Reduce Transparency</string>
+    <key>PayloadDescription</key>
+    <string>Reduce transparency effects</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadEnabled</key>
+    <true/>
+    <key>PayloadRemovalDisallowed</key>
+    <true/>
+    <key>PayloadScope</key>
+    <string>System</string>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>PayloadDisplayName</key>
+        <string>Custom Settings</string>
+        <key>PayloadIdentifier</key>
+        <string>3BD66813-3DC4-4881-AAE0-D661F06C9CA5</string>
+        <key>PayloadOrganization</key>
+        <string>Company Name</string>
+        <key>PayloadType</key>
+        <string>com.apple.ManagedClient.preferences</string>
+        <key>PayloadUUID</key>
+        <string>3BD66813-3DC4-4881-AAE0-D661F06C9CA5</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>PayloadContent</key>
+        <dict>
+          <key>com.apple.universalaccess</key>
+          <dict>
+            <key>Forced</key>
+            <array>
+              <dict>
+                <key>mcx_preference_settings</key>
+                <dict>
+                  <key>reduceTransparency</key>
+                  <true/>
+                </dict>
+              </dict>
+            </array>
+          </dict>
+        </dict>
+      </dict>
+    </array>
+  </dict>
+</plist>
