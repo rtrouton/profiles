@@ -1,4 +1,4 @@
-This management profile enables the `Reduce Transparency` setting on Mac OS X Yosemite and later.
+This management profile enables the `Reduce Transparency` setting on OS X Yosemite and later.
 
 ![](readme_images/ReduceTransparency1.png)
 
