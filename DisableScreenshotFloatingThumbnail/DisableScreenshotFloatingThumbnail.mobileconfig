@@ -1,58 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>PayloadContent</key>
-	<array>
-		<dict>
-			<key>PayloadContent</key>
-			<dict>
-				<key>com.apple.screencapture</key>
-				<dict>
-					<key>Forced</key>
-					<array>
-						<dict>
-							<key>mcx_preference_settings</key>
-							<dict>
-								<key>show-thumbnail</key>
-								<false/>
-							</dict>
-						</dict>
-					</array>
-				</dict>
-			</dict>
-			<key>PayloadEnabled</key>
-			<true/>
-			<key>PayloadIdentifier</key>
-			<string>MCXToProfile.611FCCEC-82F0-493B-B650-59D5295D3770.alacarte.customsettings.F32FB2BF-FCC5-4496-A049-0C8D830A4AA0</string>
-			<key>PayloadType</key>
-			<string>com.apple.ManagedClient.preferences</string>
-			<key>PayloadUUID</key>
-			<string>F32FB2BF-FCC5-4496-A049-0C8D830A4AA0</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-		</dict>
-	</array>
-	<key>PayloadDescription</key>
-	<string>Included custom settings:
-com.apple.screencapture
-
-Git revision: 5aefeaf7eb</string>
-	<key>PayloadDisplayName</key>
-	<string>MCXToProfile: com.apple.screencapture</string>
-	<key>PayloadIdentifier</key>
-	<string>DisableScreenshotFloatingThumbnail</string>
-	<key>PayloadOrganization</key>
-	<string></string>
-	<key>PayloadRemovalDisallowed</key>
-	<true/>
-	<key>PayloadScope</key>
-	<string>System</string>
-	<key>PayloadType</key>
-	<string>Configuration</string>
-	<key>PayloadUUID</key>
-	<string>611FCCEC-82F0-493B-B650-59D5295D3770</string>
-	<key>PayloadVersion</key>
-	<integer>1</integer>
-</dict>
+<plist version="1">
+  <dict>
+    <key>PayloadUUID</key>
+    <string>90C4C13C-7FCB-4292-ABA0-1066E853119C</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadOrganization</key>
+    <string>Company Name</string>
+    <key>PayloadIdentifier</key>
+    <string>90C4C13C-7FCB-4292-ABA0-1066E853119C</string>
+    <key>PayloadDisplayName</key>
+    <string>Disable Screenshot Floating Thumbnail Preview</string>
+    <key>PayloadDescription</key>
+    <string/>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadEnabled</key>
+    <true/>
+    <key>PayloadRemovalDisallowed</key>
+    <true/>
+    <key>PayloadScope</key>
+    <string>System</string>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>PayloadDisplayName</key>
+        <string>Custom Settings</string>
+        <key>PayloadIdentifier</key>
+        <string>DCE1F2D6-639F-442F-AF0C-5138CA8ED6FE</string>
+        <key>PayloadOrganization</key>
+        <string>Company Name</string>
+        <key>PayloadType</key>
+        <string>com.apple.ManagedClient.preferences</string>
+        <key>PayloadUUID</key>
+        <string>DCE1F2D6-639F-442F-AF0C-5138CA8ED6FE</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>PayloadContent</key>
+        <dict>
+          <key>com.apple.screencapture</key>
+          <dict>
+            <key>Forced</key>
+            <array>
+              <dict>
+                <key>mcx_preference_settings</key>
+                <dict>
+                  <key>show-thumbnail</key>
+                  <false/>
+                </dict>
+              </dict>
+            </array>
+          </dict>
+        </dict>
+      </dict>
+    </array>
+  </dict>
 </plist>
